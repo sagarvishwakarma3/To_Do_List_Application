@@ -1,4 +1,4 @@
-## **Documentation: To-Do List Application**
+# **To-Do List Application**
 
 ## **Overview**
 The **To-Do List Application** is a simple GUI-based project developed using Python's `tkinter` library. This application allows users to manage their daily tasks efficiently by adding, removing, and clearing tasks from a list.
